@@ -1,10 +1,10 @@
-# CSPI Unrestricted
-Unrestricted information about or from CSPI that you can access.
+# CSPI Foundation
+CSPI Foundation is where you can find more details about the foundation of CSPI.
 
 ## Installation
 Github:
 ```
-git clone https://github.com/cspi-git/cspi-unrestricted
+git clone https://github.com/cspi-git/cspi-foundation
 ```
 
 NpmJS:
