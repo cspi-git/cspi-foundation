@@ -1,3 +1,4 @@
+# Archived for now until further notice.
 # CSPI Foundation
 CSPI Foundation is where you can find more details about the foundation of CSPI.
 
